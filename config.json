@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Watch Reviews",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/fookinpelican/bigdata2/main/vectors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/fookinpelican/bigdata2/main/metadatas.tsv"
+    }
+  ]
+}
